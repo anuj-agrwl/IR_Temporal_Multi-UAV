@@ -1,0 +1,12 @@
+# Never commit data, weights or run outputs.
+datasets/
+*.pt
+*.pth
+*.mat
+*.png
+*.jpg
+runs/
+*_runs/
+__pycache__/
+*.pyc
+.venv/

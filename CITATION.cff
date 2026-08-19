@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the accompanying article."
+title: "Temporal channel stacking for infrared small-target detection"
+authors:
+  - family-names: Agrawal
+    given-names: Anuj
+    affiliation: Delhi Technological University
+  - family-names: Rohilla
+    given-names: Rajesh
+    affiliation: Delhi Technological University
+license: MIT
